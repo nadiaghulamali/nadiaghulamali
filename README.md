@@ -1,14 +1,14 @@
 ### Hi there 👋
 
- 🏢 I'm currently working at Arbisoft
+ 🏢 I'm currently working at Emirates NBD 
 
- ⚙️ I use daily: Typescript, GitHub, Bamboo, Jira
+ ⚙️ I use daily: Node js, GenAI, Chatbot, Alert refienments, Alert Testing, Jira
 
-🔭 Working on: Kayak Project
+🔭 Working on: GEN AI related projects
 
-💅 Expertise: Automation tools, Quality Assurance, Continous Integration, Communication
+💅 Expertise: Prompt Engineering, Automation tools, Quality Assurance, Continous Integration, Communication
 
-🌱 Learning all about Automation Tools | QA Best Practices | Cloud Computing
+🌱 Learning all about Prompts, GenAI, Automation Tools | QA Best Practices | Cloud Computing
 
 💬 Ping me about QA, Automation, RestAssured, Continous Integration & anything that has positive impact
 
@@ -18,7 +18,7 @@
 <!--
 **nadiaghulamali/nadiaghulamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm QA Automation Engineer with 4 years of experience
+I'm QA Automation Engineer with 5 years of experience
 
 🏢 I'm currently working at Arbisoft
 ⚙️ I use daily: Typescript, GitHub, Bamboo, Jira
